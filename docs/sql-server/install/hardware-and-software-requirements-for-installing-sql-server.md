@@ -58,7 +58,7 @@ ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/15/2018
 ---
-# <a name="hardware-and-software-requirements-for-installing-sql-server"></a>安裝 SQL Server 2008 R2 的硬體和軟體需求
+# <a name="hardware-and-software-requirements-for-installing-sql-server"></a>安裝 SQL Server 2016 的硬體和軟體需求
 [!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md-winonly](../../includes/appliesto-ss-xxxx-xxxx-xxx-md-winonly.md)]
 
 本文章列出在 Windows 作業系統上安裝和執行 [!INCLUDE[ssNoVer](../../includes/ssnoversion-md.md)] 的最低軟硬體需求。 
